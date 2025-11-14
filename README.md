@@ -13,7 +13,7 @@ A feature-rich, front-end clone of Google's Gemini AI interface. Built with mode
 
 ## 🚀 Tech Stack
 
-- **Frontend Framework**: [React](https://reactjs.org/)
-- **Build Tool & Dev Server**: [Vite](https://vitejs.dev/)
-- **Styling**: CSS3 / (or mention if you use Tailwind CSS, Styled Components, etc.)
-- **Language**: JavaScript / TypeScript
+- **Frontend Framework**: [React]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4BY12d47WF9whSS59HVvTXTcXYOzPMT5WQ&s)
+- **Build Tool & Dev Server**: [Vite](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQW0cN1w6qDSzbivb_yzKBcA-e7EXLyCfIQ&s)
+- **Styling**: Styled Components
+- **Language**: JavaScript
